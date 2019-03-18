@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "es6",
+    "types": [
+      "node",
+      "angular"
+    ],
+    "rootDir": "./src"
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
